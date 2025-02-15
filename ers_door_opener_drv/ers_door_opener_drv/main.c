@@ -286,7 +286,7 @@
 #define SERVO_MAX_PULSE_WIDTH 2000   // Maximale Pulsbreite f�r den Servo (in Zyklen)
 /**
  * @brief Initialisiert die GPIO-Pins.
- * @author Mohamed Chahin Benyahya, Fortune Audrey Langue Tchakounte und Marco Goehner
+ * @author Mohamed Chahin Benyahya
  *
  *@version        2
  *
